@@ -7,7 +7,7 @@ df = pd.read_csv(
     names=["label", "message"]
 )
 
-# print(df.head())
+
 
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
