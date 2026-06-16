@@ -6,6 +6,9 @@ AI-powered threat intelligence dashboard for detecting spam and scam messages us
 
 ScamRadar analyzes SMS messages and identifies potential spam or scam content. It provides threat scoring, risk visualization, detected indicators, and security recommendations through an interactive dashboard.
 
+#🚀Live Demo
+https://YOUR-STREAMLIT-APP-URL.streamlit.app
+
 ## Features
 
 * Spam and scam message detection
